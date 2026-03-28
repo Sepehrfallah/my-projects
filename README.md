@@ -20,4 +20,4 @@ This is a simple notes application built using Flutter.
 This project was created for the COM206 course.
 
 ## 👨‍💻 Developer
-(SKY)
+SKY
