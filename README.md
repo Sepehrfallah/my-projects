@@ -16,6 +16,9 @@ This is a simple notes application built using Flutter.
 - Home Page
 - Add Note Page
 
+## 🧠 How it works
+Users can add notes, search through them, and mark important notes as favorite.
+
 ## 🎯 Description
 This project was created for the COM206 course.
 
