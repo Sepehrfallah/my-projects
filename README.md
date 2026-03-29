@@ -27,4 +27,4 @@ This project was created for the COM206 course.
 ![Home](screenshots/home.png)
 
 ## 👨‍💻 Developer
-SKY
+SEPEHR(SKY)
