@@ -19,5 +19,9 @@ This is a simple notes application built using Flutter.
 ## 🎯 Description
 This project was created for the COM206 course.
 
+## 📸 Screenshots
+
+![Home](screenshots/home.png)
+
 ## 👨‍💻 Developer
 SKY
